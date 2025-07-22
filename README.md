@@ -57,3 +57,14 @@ The script is fairly safe:
 
 I have more experience with argparse than Click, and pip than uv, but both have been easy to pick up. uv makes dependency management for my workflows much easier than pip. I'm much more inclined to create "proper" packages now, rather than manually activating virtual environments for some scripts, or globally installing dependencies for others.
  -->
+
+### Unit Tests
+
+This is my first time writing unit tests.
+
+I've written many procedurally structured command line scripts like this with discreetly testable functions, so it was pretty approachable.
+
+Crafting the sample test files probably took almost as long as writing the tests. Writing the tests + sample files took longer than writing the script. Writing 100% coverage for a script like this is excessive, but it was a good opportunity to learn Pytest.
+
+On that note, Pytest is great. I didn't realize tests could be this easy to write, and dare I say it, fun?!
+

@@ -4,7 +4,7 @@ build-backend = "pdm.backend"
 
 [project]
 name = "brphoto-metadata-tools"
-version = "0.1.0"
+version = "1.0.0"
 authors = [
     {name = "Brandon Rodkewitz", email = "brandon@brphotographs.com"}
 ]
@@ -20,5 +20,11 @@ dependencies = [
 [dependency-groups]
 dev = [
     "pip-licenses>=5.0.0",
+    "pytest>=8.4.1",
+    "pytest-cov>=6.2.1",
 ]
 
+[tool.pytest.ini_options]
+markers = [
+    "orig_find_matching_files: Run this test using the real find_matching_files function",
+]

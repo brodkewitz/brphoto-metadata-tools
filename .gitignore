@@ -4,3 +4,7 @@
 
 # Environment variables
 .env
+
+# Coverage cache and report files
+.coverage
+.coverage.*

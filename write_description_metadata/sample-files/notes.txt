@@ -1,0 +1,13 @@
+Write Description Metadata Sample Files
+
+- ARW: can be empty bc we never write to this anyway EDIT: Except where exiftool needs data to draw from to create an XMP file.
+- JPG: 10x10px white, with minimal metadata
+- ARW+XMP: XMP with minimal metadata
+
+- [x] Generate "clean", equivalent xmp files of standard metadata from each application - C1, PM, ET
+- [x] Generate jpg in photoshop. Extract all metadata (to json?)
+- [x] Generate jpg in affinity photo. Extract all metadata (to json?)
+- [x] Compare both jpg's metadata. Which is more minimal? What can/do we need to strip? EDIT: Photoshop Save for Web is very slightly smaller than Affinity, but the Affinity metadata looks better.
+- [x] Once jpg files are ready, try sips CLI and Preview.app to convert them to heic. EDIT: You can use `Finder > Right click > Quick Actions > Convert Image...`
+- [x] None of these files are recognized by Capture One. Do we really need to write anything additional to the sample files or can we just write the description tags as needed? EDIT: No.
+- [x] Set all dates to 2025-01-01: `exiftool -AllDates='2025:07:01 00:00:00-04:00' white-10x10px.jpg`

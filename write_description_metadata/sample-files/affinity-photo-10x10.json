@@ -1,0 +1,106 @@
+[{
+  "SourceFile": "affinity-photo-10x10.jpg",
+  "ExifTool": {
+    "ExifToolVersion": 13.30
+  },
+  "System": {
+    "FileName": "affinity-photo-10x10.jpg",
+    "Directory": ".",
+    "FileSize": "4.1 kB",
+    "FileModifyDate": "2025:07:02 21:20:37-04:00",
+    "FileAccessDate": "2025:07:02 21:20:59-04:00",
+    "FileInodeChangeDate": "2025:07:02 21:20:47-04:00",
+    "FilePermissions": "-rw-r--r--"
+  },
+  "File": {
+    "FileType": "JPEG",
+    "FileTypeExtension": "jpg",
+    "MIMEType": "image/jpeg",
+    "ExifByteOrder": "Big-endian (Motorola, MM)",
+    "ImageWidth": 10,
+    "ImageHeight": 10,
+    "EncodingProcess": "Baseline DCT, Huffman coding",
+    "BitsPerSample": 8,
+    "ColorComponents": 3,
+    "YCbCrSubSampling": "YCbCr4:4:4 (1 1)"
+  },
+  "JFIF": {
+    "JFIFVersion": 1.01,
+    "ResolutionUnit": "inches",
+    "XResolution": 300,
+    "YResolution": 300
+  },
+  "IFD0": {
+    "XResolution": 300,
+    "YResolution": 300,
+    "ResolutionUnit": "inches",
+    "ModifyDate": "2025:07:02 21:20:37"
+  },
+  "ExifIFD": {
+    "ColorSpace": "sRGB",
+    "ExifImageWidth": 10,
+    "ExifImageHeight": 10
+  },
+  "XMP-x": {
+    "XMPToolkit": "XMP Core 5.5.0"
+  },
+  "XMP-xmp": {
+    "CreateDate": "2025:07:02 21:19:34-0400",
+    "ModifyDate": "2025:07:02 21:20:37-04:00",
+    "MetadataDate": "2025:07:02 21:20:37-04:00"
+  },
+  "XMP-photoshop": {
+    "DateCreated": "2025:07:02 21:19:34-0400",
+    "ColorMode": "RGB",
+    "ICCProfileName": "sRGB IEC61966-2.1"
+  },
+  "XMP-xmpMM": {
+    "HistoryAction": "produced",
+    "HistorySoftwareAgent": "Affinity Photo 2 2.6.3",
+    "HistoryWhen": "2025:07:02 21:20:37-04:00"
+  },
+  "Photoshop": {
+    "IPTCDigest": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "ICC-header": {
+    "ProfileCMMType": "Little CMS",
+    "ProfileVersion": "4.3.0",
+    "ProfileClass": "Display Device Profile",
+    "ColorSpaceData": "RGB ",
+    "ProfileConnectionSpace": "XYZ ",
+    "ProfileDateTime": "2025:07:03 01:19:07",
+    "ProfileFileSignature": "acsp",
+    "PrimaryPlatform": "Apple Computer Inc.",
+    "CMMFlags": "Not Embedded, Independent",
+    "DeviceManufacturer": "",
+    "DeviceModel": "",
+    "DeviceAttributes": "Reflective, Glossy, Positive, Color",
+    "RenderingIntent": "Perceptual",
+    "ConnectionSpaceIlluminant": "0.9642 1 0.82491",
+    "ProfileCreator": "Little CMS",
+    "ProfileID": 0
+  },
+  "ICC_Profile": {
+    "ProfileDescription": "sRGB IEC61966-2.1",
+    "ProfileCopyright": "No copyright, use freely",
+    "MediaWhitePoint": "0.9642 1 0.82491",
+    "ChromaticAdaptation": "1.04788 0.02292 -0.05022 0.02959 0.99048 -0.01707 -0.00925 0.01508 0.75168",
+    "RedMatrixColumn": "0.43604 0.22249 0.01392",
+    "BlueMatrixColumn": "0.14305 0.06061 0.71391",
+    "GreenMatrixColumn": "0.38512 0.7169 0.09706",
+    "RedTRC": "(Binary data 32 bytes, use -b option to extract)",
+    "GreenTRC": "(Binary data 32 bytes, use -b option to extract)",
+    "BlueTRC": "(Binary data 32 bytes, use -b option to extract)"
+  },
+  "ICC-chrm": {
+    "ChromaticityChannels": 3,
+    "ChromaticityColorant": "Unknown",
+    "ChromaticityChannel1": "0.64 0.33",
+    "ChromaticityChannel2": "0.3 0.60001",
+    "ChromaticityChannel3": "0.14999 0.06"
+  },
+  "Composite": {
+    "ImageSize": "10x10",
+    "Megapixels": 0.000100
+  }
+}]

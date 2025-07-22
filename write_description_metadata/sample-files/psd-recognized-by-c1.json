@@ -1,0 +1,242 @@
+[{
+  "SourceFile": "../../../c1-session-write-description-alt-text-metadata/Capture/A7300030.psd",
+  "ExifTool": {
+    "ExifToolVersion": 13.30
+  },
+  "System": {
+    "FileName": "A7300030.psd",
+    "Directory": "../../../c1-session-write-description-alt-text-metadata/Capture",
+    "FileSize": "10 MB",
+    "FileModifyDate": "2025:07:02 21:55:38-04:00",
+    "FileAccessDate": "2025:07:02 21:55:42-04:00",
+    "FileInodeChangeDate": "2025:07:02 21:55:40-04:00",
+    "FilePermissions": "-rw-r--r--"
+  },
+  "File": {
+    "FileType": "PSD",
+    "FileTypeExtension": "psd",
+    "MIMEType": "application/vnd.adobe.photoshop",
+    "CurrentIPTCDigest": "c2f3dcd6fe4050858ce13e9277c9864f",
+    "ExifByteOrder": "Little-endian (Intel, II)"
+  },
+  "Photoshop": {
+    "NumChannels": 3,
+    "ImageHeight": 1733,
+    "ImageWidth": 2600,
+    "BitDepth": 8,
+    "ColorMode": "RGB",
+    "IPTCDigest": "c2f3dcd6fe4050858ce13e9277c9864f",
+    "XResolution": 300,
+    "DisplayedUnitsX": "inches",
+    "YResolution": 300,
+    "DisplayedUnitsY": "inches",
+    "PrintStyle": "Centered",
+    "PrintPosition": "0 0",
+    "PrintScale": 1,
+    "GlobalAngle": 30,
+    "GlobalAltitude": 30,
+    "CopyrightFlag": true,
+    "URL_List": [],
+    "SlicesGroupName": "A7300030",
+    "NumSlices": 1,
+    "PixelAspectRatio": 1,
+    "PhotoshopThumbnail": "(Binary data 6163 bytes, use -b option to extract)",
+    "HasRealMergedData": "Yes",
+    "WriterName": "Adobe Photoshop",
+    "ReaderName": "Adobe Photoshop 2025",
+    "LayerCount": 0,
+    "Compression": "RLE"
+  },
+  "IPTC": {
+    "CodedCharacterSet": "UTF8",
+    "ApplicationRecordVersion": 4,
+    "By-line": "Brandon Rodkewitz",
+    "ObjectName": "food-truck-wedding-cocktail-hour",
+    "DateCreated": "2018:09:02",
+    "TimeCreated": "16:09:52",
+    "DigitalCreationDate": "2018:09:02",
+    "Urgency": "0 (reserved)",
+    "CopyrightNotice": "Brandon Rodkewitz"
+  },
+  "XMP-x": {
+    "XMPToolkit": "Adobe XMP Core 9.1-c003 79.9690a87fc, 2025/03/06-20:50:16        "
+  },
+  "XMP-xmpRights": {
+    "Marked": true,
+    "UsageTerms": "Personal use only. Resale or redistribution of this image without express consent of the Copyright Owner is forbidden."
+  },
+  "XMP-photoshop": {
+    "DateCreated": "2018:09:02 16:09:52",
+    "Urgency": "0 (reserved)",
+    "LegacyIPTCDigest": "6A87DB98E0FBD315A275817D2CCEC54C",
+    "ColorMode": "RGB",
+    "ICCProfileName": "sRGB IEC61966-2.1"
+  },
+  "XMP-xmp": {
+    "CreateDate": "2018:09:02 16:09:52",
+    "Rating": 4,
+    "Label": "None",
+    "CreatorTool": "Capture One Macintosh",
+    "ModifyDate": "2025:07:02 21:55:38-04:00",
+    "MetadataDate": "2025:07:02 21:55:38-04:00"
+  },
+  "XMP-photomech": {
+    "ColorClass": "0 (None)",
+    "Tagged": "No",
+    "Prefs": "Tagged:0, ColorClass:0, Rating:4, FrameNum:000030",
+    "PMVersion": "PM5"
+  },
+  "XMP-aux": {
+    "ImageNumber": 30,
+    "LensInfo": "50mm f/1.39897967446757",
+    "Lens": "Zeiss Planar T* FE 50mm F1.4 ZA (SEL50F14Z)",
+    "FlashCompensation": 0.3
+  },
+  "XMP-exifEX": {
+    "LensModel": "Zeiss Planar T* FE 50mm F1.4 ZA (SEL50F14Z)"
+  },
+  "XMP-dc": {
+    "Rights": "Brandon Rodkewitz",
+    "Title": "food-truck-wedding-cocktail-hour",
+    "Creator": "Brandon Rodkewitz",
+    "Format": "application/vnd.adobe.photoshop"
+  },
+  "XMP-xmpMM": {
+    "DocumentID": "adobe:docid:photoshop:8523267e-ca82-6b47-9a26-0cf67b78c1e8",
+    "InstanceID": "xmp.iid:f00cc977-dc76-4913-8aeb-c72e460d57f9",
+    "OriginalDocumentID": "F53F8A41CB88B87BEFFFDAB292CBC130",
+    "HistoryAction": ["saved","converted","derived","saved"],
+    "HistoryInstanceID": ["xmp.iid:be09d311-3fb2-4c52-a94b-31c2da2c9de4","xmp.iid:f00cc977-dc76-4913-8aeb-c72e460d57f9"],
+    "HistoryWhen": ["2025:07:02 21:55:38-04:00","2025:07:02 21:55:38-04:00"],
+    "HistorySoftwareAgent": ["Adobe Photoshop 26.8 (Macintosh)","Adobe Photoshop 26.8 (Macintosh)"],
+    "HistoryChanged": ["/","/"],
+    "HistoryParameters": ["from image/jpeg to application/vnd.adobe.photoshop","converted from image/jpeg to application/vnd.adobe.photoshop"],
+    "DerivedFromInstanceID": "xmp.iid:be09d311-3fb2-4c52-a94b-31c2da2c9de4",
+    "DerivedFromDocumentID": "F53F8A41CB88B87BEFFFDAB292CBC130",
+    "DerivedFromOriginalDocumentID": "F53F8A41CB88B87BEFFFDAB292CBC130"
+  },
+  "ICC-header": {
+    "ProfileCMMType": "Linotronic",
+    "ProfileVersion": "2.1.0",
+    "ProfileClass": "Display Device Profile",
+    "ColorSpaceData": "RGB ",
+    "ProfileConnectionSpace": "XYZ ",
+    "ProfileDateTime": "1998:02:09 06:49:00",
+    "ProfileFileSignature": "acsp",
+    "PrimaryPlatform": "Microsoft Corporation",
+    "CMMFlags": "Not Embedded, Independent",
+    "DeviceManufacturer": "Hewlett-Packard",
+    "DeviceModel": "sRGB",
+    "DeviceAttributes": "Reflective, Glossy, Positive, Color",
+    "RenderingIntent": "Perceptual",
+    "ConnectionSpaceIlluminant": "0.9642 1 0.82491",
+    "ProfileCreator": "Hewlett-Packard",
+    "ProfileID": 0
+  },
+  "ICC_Profile": {
+    "ProfileCopyright": "Copyright (c) 1998 Hewlett-Packard Company",
+    "ProfileDescription": "sRGB IEC61966-2.1",
+    "MediaWhitePoint": "0.95045 1 1.08905",
+    "MediaBlackPoint": "0 0 0",
+    "RedMatrixColumn": "0.43607 0.22249 0.01392",
+    "GreenMatrixColumn": "0.38515 0.71687 0.09708",
+    "BlueMatrixColumn": "0.14307 0.06061 0.7141",
+    "DeviceMfgDesc": "IEC http://www.iec.ch",
+    "DeviceModelDesc": "IEC 61966-2.1 Default RGB colour space - sRGB",
+    "ViewingCondDesc": "Reference Viewing Condition in IEC61966-2.1",
+    "Luminance": "76.03647 80 87.12462",
+    "Technology": "Cathode Ray Tube Display",
+    "RedTRC": "(Binary data 2060 bytes, use -b option to extract)",
+    "GreenTRC": "(Binary data 2060 bytes, use -b option to extract)",
+    "BlueTRC": "(Binary data 2060 bytes, use -b option to extract)"
+  },
+  "ICC-view": {
+    "ViewingCondIlluminant": "19.6445 20.3718 16.8089",
+    "ViewingCondSurround": "3.92889 4.07439 3.36179",
+    "ViewingCondIlluminantType": "D50"
+  },
+  "ICC-meas": {
+    "MeasurementObserver": "CIE 1931",
+    "MeasurementBacking": "0 0 0",
+    "MeasurementGeometry": "Unknown",
+    "MeasurementFlare": "0.999%",
+    "MeasurementIlluminant": "D65"
+  },
+  "IFD0": {
+    "ImageWidth": 2600,
+    "ImageHeight": 1733,
+    "BitsPerSample": "8 8 8",
+    "PhotometricInterpretation": "RGB",
+    "Make": "SONY",
+    "Model": "ILCE-7M3",
+    "Orientation": "Horizontal (normal)",
+    "SamplesPerPixel": 3,
+    "XResolution": 300,
+    "YResolution": 300,
+    "ResolutionUnit": "inches",
+    "Software": "Adobe Photoshop 26.8 (Macintosh)",
+    "ModifyDate": "2025:07:02 21:55:38",
+    "Artist": "Brandon Rodkewitz",
+    "Copyright": "Brandon Rodkewitz"
+  },
+  "ExifIFD": {
+    "ExposureTime": "1/5000",
+    "FNumber": 1.4,
+    "ExposureProgram": "Manual",
+    "ISO": 200,
+    "SensitivityType": "Recommended Exposure Index",
+    "RecommendedExposureIndex": 200,
+    "ExifVersion": "0230",
+    "DateTimeOriginal": "2018:09:02 16:09:52",
+    "CreateDate": "2018:09:02 16:09:52",
+    "OffsetTimeOriginal": "-04:00",
+    "ShutterSpeedValue": "1/5000",
+    "ApertureValue": 1.4,
+    "BrightnessValue": 6.39609375,
+    "ExposureCompensation": 0,
+    "MaxApertureValue": 1.4,
+    "MeteringMode": "Spot",
+    "LightSource": "Unknown",
+    "Flash": "Off, Did not fire",
+    "FocalLength": "50.0 mm",
+    "ColorSpace": "sRGB",
+    "ExifImageWidth": 2600,
+    "ExifImageHeight": 1733,
+    "FileSource": "Digital Camera",
+    "SceneType": "Directly photographed",
+    "CustomRendered": "Normal",
+    "ExposureMode": "Manual",
+    "WhiteBalance": "Auto",
+    "DigitalZoomRatio": 1,
+    "FocalLengthIn35mmFormat": "50 mm",
+    "SceneCaptureType": "Standard",
+    "Contrast": "Normal",
+    "Saturation": "Normal",
+    "Sharpness": "Normal",
+    "LensInfo": "50mm f/1.398979674",
+    "LensModel": "Zeiss Planar T* FE 50mm F1.4 ZA (SEL50F14Z)"
+  },
+  "IFD1": {
+    "Compression": "JPEG (old-style)",
+    "XResolution": 72,
+    "YResolution": 72,
+    "ResolutionUnit": "inches",
+    "ThumbnailOffset": 1050,
+    "ThumbnailLength": 0
+  },
+  "Composite": {
+    "Aperture": 1.4,
+    "ImageSize": "2600x1733",
+    "Megapixels": 4.5,
+    "ScaleFactor35efl": 1.0,
+    "ShutterSpeed": "1/5000",
+    "SubSecDateTimeOriginal": "2018:09:02 16:09:52-04:00",
+    "DateTimeCreated": "2018:09:02 16:09:52",
+    "CircleOfConfusion": "0.030 mm",
+    "FOV": "39.6 deg",
+    "FocalLength35efl": "50.0 mm (35 mm equivalent: 50.0 mm)",
+    "HyperfocalDistance": "59.43 m",
+    "LightValue": 12.3,
+    "LensID": "Zeiss Planar T* FE 50mm F1.4 ZA (SEL50F14Z)"
+  }
+}]

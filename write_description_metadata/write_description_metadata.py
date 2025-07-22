@@ -14,6 +14,21 @@ import click
 import exiftool
 
 
+# Name exports for shorter import statements in other scripts
+__all__ = [
+    "RAW_TYPES",
+    "JPG_TYPES",
+    "XMP_TYPES",
+    "TYPE_PRIORITIES",
+    "Image",
+    "process_tsv_input",
+    "select_preferred_path",
+    "find_matching_files",
+    "write_descriptions",
+    "main",
+]
+
+
 XMP_TYPES: set = {".xmp"}
 RAW_TYPES: set = {".arw", ".cr2", ".dng", ".raf", ".nef"}
 JPG_TYPES: set = {".jpg", ".jpeg", ".heic"}
@@ -454,4 +469,4 @@ def main(
 
 
 if __name__ == "__main__":
-    main()
+    main()  # pragma: no cover
