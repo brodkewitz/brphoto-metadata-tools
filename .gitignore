@@ -1,0 +1,6 @@
+# IDE configuration
+.nova/
+.vscode/
+
+# Environment variables
+.env
