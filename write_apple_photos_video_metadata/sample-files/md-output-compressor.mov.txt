@@ -1,0 +1,137 @@
+[ExifTool] ExifToolVersion	13.30
+[File] Directory	.
+[File] FileAccessDate	2025:07:05 23:08:41-04:00
+[File] FileInodeChangeDate	2025:07:06 11:33:18-04:00
+[File] FileModifyDate	2025:07:05 22:57:22-04:00
+[File] FileName	output-Compressor-transcode-faster-multipass.mov
+[File] FilePermissions	-rw-r--r--
+[File] FileSize	83 MB
+[File] FileType	MOV
+[File] FileTypeExtension	mov
+[File] MIMEType	video/quicktime
+[QuickTime] AudioBitsPerSample	16
+[QuickTime] AudioChannels	3
+[QuickTime] AudioFormat	lpcm
+[QuickTime] AudioSampleRate	1
+[QuickTime] BackgroundColor	65535 65535 65535
+[QuickTime] Balance	0
+[QuickTime] BitDepth	24
+[QuickTime] CleanApertureDimensions	2160x3840
+[QuickTime] CompatibleBrands	qt
+[QuickTime] CompressorID	hvc1
+[QuickTime] CompressorName	HEVC
+[QuickTime] CreateDate	2025:07:06 02:56:26
+[QuickTime] CurrentTime	0 s
+[QuickTime] Duration	0:00:49
+[QuickTime] EncodedPixelsDimensions	2160x3840
+[QuickTime] FontName	Courier
+[QuickTime] FullFrameRatePlaybackIntent	1
+[QuickTime] GenBalance	0
+[QuickTime] GenFlags	0 0 0
+[QuickTime] GenGraphicsMode	ditherCopy
+[QuickTime] GenMediaVersion	0
+[QuickTime] GenOpColor	32768 32768 32768
+[QuickTime] GraphicsMode	ditherCopy
+[QuickTime] HandlerClass	Data Handler
+[QuickTime] HandlerClass	Media Handler
+[QuickTime] HandlerClass	Data Handler
+[QuickTime] HandlerClass	Media Handler
+[QuickTime] HandlerClass	Data Handler
+[QuickTime] HandlerClass	Media Handler
+[QuickTime] HandlerDescription	Core Media Data Handler
+[QuickTime] HandlerDescription	Core Media Audio
+[QuickTime] HandlerDescription	Core Media Data Handler
+[QuickTime] HandlerDescription	Core Media Video
+[QuickTime] HandlerDescription	Core Media Data Handler
+[QuickTime] HandlerDescription	Core Media Time Code
+[QuickTime] HandlerType	Metadata Tags
+[QuickTime] HandlerType	Audio Track
+[QuickTime] HandlerType	Alias Data
+[QuickTime] HandlerType	Video Track
+[QuickTime] HandlerType	Alias Data
+[QuickTime] HandlerType	Time Code
+[QuickTime] HandlerType	Alias Data
+[QuickTime] HandlerVendorID	Apple
+[QuickTime] HandlerVendorID	Apple
+[QuickTime] HandlerVendorID	Apple
+[QuickTime] HandlerVendorID	Apple
+[QuickTime] HandlerVendorID	Apple
+[QuickTime] HandlerVendorID	Apple
+[QuickTime] ImageHeight	3840
+[QuickTime] ImageWidth	2160
+[QuickTime] MajorBrand	Apple QuickTime (.MOV/QT)
+[QuickTime] MatrixStructure	1 0 0 0 1 0 0 0 1
+[QuickTime] MatrixStructure	1 0 0 0 1 0 0 0 1
+[QuickTime] MatrixStructure	1 0 0 0 1 0 0 0 1
+[QuickTime] MatrixStructure	1 0 0 0 1 0 0 0 1
+[QuickTime] MediaCreateDate	2025:07:06 02:56:26
+[QuickTime] MediaCreateDate	2025:07:06 02:56:26
+[QuickTime] MediaCreateDate	2025:07:06 02:56:26
+[QuickTime] MediaDataOffset	36
+[QuickTime] MediaDataSize	82511227
+[QuickTime] MediaDuration	0:00:49
+[QuickTime] MediaDuration	0:00:49
+[QuickTime] MediaDuration	0:00:49
+[QuickTime] MediaHeaderVersion	0
+[QuickTime] MediaHeaderVersion	0
+[QuickTime] MediaHeaderVersion	0
+[QuickTime] MediaLanguageCode	und
+[QuickTime] MediaLanguageCode	und
+[QuickTime] MediaLanguageCode	und
+[QuickTime] MediaModifyDate	2025:07:06 02:57:22
+[QuickTime] MediaModifyDate	2025:07:06 02:57:22
+[QuickTime] MediaModifyDate	2025:07:06 02:57:22
+[QuickTime] MediaTimeScale	60000
+[QuickTime] MediaTimeScale	48000
+[QuickTime] MediaTimeScale	60000
+[QuickTime] MinorVersion	0.0.0
+[QuickTime] ModifyDate	2025:07:06 02:57:22
+[QuickTime] MovieHeaderVersion	0
+[QuickTime] NextTrackID	4
+[QuickTime] OpColor	32768 32768 32768
+[QuickTime] OtherFormat	tmcd
+[QuickTime] PlaybackFrameRate	59.94005994
+[QuickTime] PosterTime	0 s
+[QuickTime] PreferredRate	1
+[QuickTime] PreferredVolume	100.00%
+[QuickTime] PreviewDuration	0 s
+[QuickTime] PreviewTime	0 s
+[QuickTime] ProductionApertureDimensions	2160x3840
+[QuickTime] SelectionDuration	0 s
+[QuickTime] SelectionTime	0 s
+[QuickTime] SourceImageHeight	3840
+[QuickTime] SourceImageWidth	2160
+[QuickTime] TextColor	0 0 0
+[QuickTime] TextFace	Plain
+[QuickTime] TextFont	Unknown (22)
+[QuickTime] TextSize	12
+[QuickTime] TimeScale	60000
+[QuickTime] TimecodeTrack	3
+[QuickTime] TrackCreateDate	2025:07:06 02:56:26
+[QuickTime] TrackCreateDate	2025:07:06 02:56:26
+[QuickTime] TrackCreateDate	2025:07:06 02:56:26
+[QuickTime] TrackDuration	0:00:49
+[QuickTime] TrackDuration	0:00:49
+[QuickTime] TrackDuration	0:00:49
+[QuickTime] TrackHeaderVersion	0
+[QuickTime] TrackHeaderVersion	0
+[QuickTime] TrackHeaderVersion	0
+[QuickTime] TrackID	1
+[QuickTime] TrackID	2
+[QuickTime] TrackID	3
+[QuickTime] TrackLayer	0
+[QuickTime] TrackLayer	0
+[QuickTime] TrackLayer	0
+[QuickTime] TrackModifyDate	2025:07:06 02:57:22
+[QuickTime] TrackModifyDate	2025:07:06 02:57:22
+[QuickTime] TrackModifyDate	2025:07:06 02:57:22
+[QuickTime] TrackVolume	100.00%
+[QuickTime] TrackVolume	0.00%
+[QuickTime] TrackVolume	0.00%
+[QuickTime] VideoFrameRate	59.94
+[QuickTime] XResolution	72
+[QuickTime] YResolution	72
+[Composite] AvgBitrate	13.6 Mbps
+[Composite] ImageSize	2160x3840
+[Composite] Megapixels	8.3
+[Composite] Rotation	0

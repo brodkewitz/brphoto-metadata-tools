@@ -1,0 +1,28 @@
+[ExifTool] ExifToolVersion	13.30
+[File] Directory	.
+[File] FileAccessDate	2025:07:05 19:10:20-04:00
+[File] FileInodeChangeDate	2025:07:05 23:21:07-04:00
+[File] FileModifyDate	2025:07:05 19:10:20-04:00
+[File] FileName	source-copy.xmp
+[File] FilePermissions	-rw-r--r--
+[File] FileSize	1006 bytes
+[File] FileType	XMP
+[File] FileTypeExtension	xmp
+[File] MIMEType	application/rdf+xml
+[XMP] ColorClass	0 (None)
+[XMP] CreateDate	2025:07:04 17:49:18-04:00
+[XMP] DataMining	Unspecified - no prohibition defined
+[XMP] DateCreated	2025:07:04 17:49:18-04:00
+[XMP] GPSLatitude	40 deg 41' 21.54" N
+[XMP] GPSLongitude	74 deg 2' 40.20" W
+[XMP] Orientation	Rotate 270 CW
+[XMP] PMVersion	2025.6.8622
+[XMP] PreferredTimeScale	0
+[XMP] PreferredTimeValue	0
+[XMP] Prefs	Tagged:0, ColorClass:0, Rating:4, FrameNum:-00001
+[XMP] Rating	4
+[XMP] Tagged	No
+[XMP] XMPToolkit	XMP Core 6.0.0
+[Composite] GPSLatitudeRef	North
+[Composite] GPSLongitudeRef	West
+[Composite] GPSPosition	40 deg 41' 21.54" N, 74 deg 2' 40.20" W

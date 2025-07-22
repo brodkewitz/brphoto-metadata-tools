@@ -66,5 +66,31 @@ I've written many procedurally structured command line scripts like this with di
 
 Crafting the sample test files probably took almost as long as writing the tests. Writing the tests + sample files took longer than writing the script. Writing 100% coverage for a script like this is excessive, but it was a good opportunity to learn Pytest.
 
-On that note, Pytest is great. I didn't realize tests could be this easy to write, and dare I say it, fun?!
+On that note, Pytest is great! I didn't realize tests could be this easy to write, and dare I say it, fun?!
 
+
+## Write Apple Photos Video Metadata
+
+Write Apple Photos-compatible video metadata from source files to transcoded copies.
+
+- Creation Date (original capture time)
+- Camera Make
+- Camera Model
+- Lens info, if available
+- GPS coordinates, if available
+
+### Workflow
+
+Occasionally I shoot personal videos on my Sony cameras that I want to trim, transcode, and import into my Apple Photos Library.
+
+This script writes date, camera info, and gps metadata to the transcoded output files in a way that Apple Photos recognizes, as with native iPhone video. Embedding the correct creation date also puts the videos chronologically where they belong in my photo library.
+
+### Usage
+
+This script is basic and rough.
+
+- There's currently no CLI interface
+- It assumes a Capture One session based folder structure, with original videos in Selects, and transcoded videos somewhere in Output.
+- It assumes output filenames have my current Apple Compressor preset suffix
+
+I edit the script to hardcode the arguments and options that I need, run it, and then reset it in Git.
