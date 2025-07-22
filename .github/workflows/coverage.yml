@@ -1,0 +1,44 @@
+name: Tests and Coverage
+
+on:
+  pull_request:
+  push:
+    branches:
+      - "main"
+
+jobs:
+  test:
+    name: Run tests and display coverage
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # To update its repo branch and edit existing comments
+      pull-requests: write  # To post PR comments
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: astral-sh/setup-uv@v6.4.1
+
+      - name: Install Exiftool
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libimage-exiftool-perl
+          exiftool -ver
+
+      - name: Install deps (editable)
+        run: uv sync
+
+      - name: Run pytest
+        run: uv run pytest
+
+      - name: Python coverage comment
+        id: coverage_comment
+        uses: py-cov-action/python-coverage-comment-action@v3
+        with:
+          GITHUB_TOKEN: ${{ github.token }}
+
+      - name: Store Pull Request comment to be posted
+        uses: actions/upload-artifact@v4
+        if: steps.coverage_comment.outputs.COMMENT_FILE_WRITTEN == 'true'
+        with:
+          name: python-coverage-comment-action
+          path: python-coverage-comment-action.txt

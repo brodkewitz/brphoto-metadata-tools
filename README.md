@@ -7,6 +7,8 @@ These tools require [Exiftool](https://exiftool.org/), Python 3.13+, and [uv](ht
 
 ## Write Description Metadata
 
+[![Tests and Coverage](https://github.com/brodkewitz/brphoto-metadata-tools/actions/workflows/coverage.yml/badge.svg)](https://github.com/brodkewitz/brphoto-metadata-tools/actions/workflows/coverage.yml) ![Coverage percentage](https://raw.githubusercontent.com/brodkewitz/brphoto-metadata-tools/python-coverage-comment-action-data/badge.svg)
+
 Write the given image descriptions (e.g. alt text) to metadata.
 
 ### Workflow

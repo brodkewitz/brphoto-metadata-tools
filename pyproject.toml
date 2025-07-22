@@ -28,3 +28,10 @@ dev = [
 markers = [
     "orig_find_matching_files: Run this test using the real find_matching_files function",
 ]
+# Always run pytest with pytest-cov
+addopts = "--cov-config=pyproject.toml --cov=write_description_metadata --cov-branch --cov-report=term-missing"
+
+# For GitHub coverage action, so .coverage file paths are valid in the
+# workflow's environment
+[tool.coverage.run]
+relative_files = true
