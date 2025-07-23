@@ -5,7 +5,7 @@ Command line utility scripts for working with photo and video metadata.
 These tools require [Exiftool](https://exiftool.org/), Python 3.13+, and [uv](https://docs.astral.sh/uv/).
 
 
-## Write Description Metadata
+## Script: Write Description Metadata
 
 [![Tests and Coverage](https://github.com/brodkewitz/brphoto-metadata-tools/actions/workflows/coverage.yml/badge.svg)](https://github.com/brodkewitz/brphoto-metadata-tools/actions/workflows/coverage.yml) ![Coverage percentage](https://raw.githubusercontent.com/brodkewitz/brphoto-metadata-tools/python-coverage-comment-action-data/badge.svg)
 
@@ -19,11 +19,11 @@ To accomplish this, I render low res jpg's for an LLM to help write descriptions
 
 This script writes the descriptions to the original images' metadata. This way, the descriptions (1) stay with the files, and (2) can easily be further reviewed and edited alongside the images in a GUI.
 
-I then render high res output files for the website, and Eleventy extracts alt text from the file metadata.
+I then render high res output files for the website, and Eleventy extracts the alt text from file metadata.
 
 ### Cross-Application Metadata Compatibility
 
-I did a bunch of testing across applications to determine which metadata fields are exposed, editable, and preferred by each application. The fields included "description", "caption", "alt text", and "extended description", among others. I tested:
+I did a bunch of testing across applications to determine which metadata fields are exposed, editable, and preferred. The fields included "description", "caption", "alt text", and "extended description", among others. I tested in:
 
 - Lightroom
 - Photo Mechanic
@@ -36,7 +36,7 @@ Note: Lightroom calls this field "Caption".
 
 ### Design
 
-This script handles various raw formats as well as jpg and heic.
+This script recognizes various raw formats as well as jpg and heic.
 
 It accepts tsv formatted input with two columns: a filename and a description string.
 
@@ -54,6 +54,8 @@ The script is fairly safe:
 
 - Includes a default limit on the number of files scanned to prevent the script from running excessively long.
 
+See `--help` for full list of options.
+
 <!-- 
 ### About The Code
 
@@ -66,12 +68,12 @@ This is my first time writing unit tests.
 
 I've written many procedurally structured command line scripts like this with discreetly testable functions, so it was pretty approachable.
 
-Crafting the sample test files probably took almost as long as writing the tests. Writing the tests + sample files took longer than writing the script. Writing 100% coverage for a script like this is excessive, but it was a good opportunity to learn Pytest.
+Crafting the sample test files probably took almost as long as writing the tests. Writing the tests + sample files took longer than writing the script. Definitely excessive to write 100% coverage for a script like, but it was a good opportunity to learn Pytest.
 
 On that note, Pytest is great! I didn't realize tests could be this easy to write, and dare I say it, fun?!
 
 
-## Write Apple Photos Video Metadata
+## Script: Write Apple Photos Video Metadata
 
 Write Apple Photos-compatible video metadata from source files to transcoded copies.
 
@@ -83,7 +85,7 @@ Write Apple Photos-compatible video metadata from source files to transcoded cop
 
 ### Workflow
 
-Occasionally I shoot personal videos on my Sony cameras that I want to trim, transcode, and import into my Apple Photos Library.
+Occasionally I shoot personal videos on my big cameras that I want to trim, transcode, and import into my Apple Photos Library.
 
 This script writes date, camera info, and gps metadata to the transcoded output files in a way that Apple Photos recognizes, as with native iPhone video. Embedding the correct creation date also puts the videos chronologically where they belong in my photo library.
 
@@ -93,6 +95,6 @@ This script is basic and rough.
 
 - There's currently no CLI interface
 - It assumes a Capture One session based folder structure, with original videos in Selects, and transcoded videos somewhere in Output.
-- It assumes output filenames have my current Apple Compressor preset suffix
+- It assumes output files have my current Apple Compressor preset naming
 
 I edit the script to hardcode the arguments and options that I need, run it, and then reset it in Git.
